@@ -1,0 +1,6 @@
+timestamp,image_filename,preparation_time,package_time,classification,decision,risk_level,confidence,reasoning_summary,advisory,error
+2026-01-02T14:02:52.382647,dos.jpg,2026-01-02T14:02,2026-01-02T14:50,NOT-EDIBLE,DISCARD,HIGH,0.0,Analysis failed due to response parsing error: Unterminated string starting at: line 7 column 30 (char 162),Manual review required - automated analysis failed,True
+2026-01-02T14:05:10.487798,dos.jpg,2026-01-02T14:04,2026-01-02T14:50,NOT-EDIBLE,DISCARD,HIGH,0.0,Analysis failed due to response parsing error: Unterminated string starting at: line 7 column 30 (char 173),Manual review required - automated analysis failed,True
+2026-01-02T14:07:40.150941,dos.jpg,2026-01-02T14:07,2026-01-02T14:30,EDIBLE,SAFE_WITH_ADVISORY,MODERATE,0.9,Analysis completed,,False
+2026-01-02T14:24:50.025339,dos.jpg,2026-01-02T14:24,2026-01-02T14:50,EDIBLE,SAFE_WITH_ADVISORY,MODERATE,0.85,Analysis completed,,False
+2026-01-02T16:29:21.144283,dos.jpg,2026-01-02T16:28,2026-01-02T17:00,EDIBLE,SAFE_WITH_ADVISORY,MODERATE,0.95,Analysis completed,,False
